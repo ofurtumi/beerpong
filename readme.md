@@ -5,26 +5,27 @@ sett fram af Þorvaldi Tuma og Herði Tryggva, nemendum í tölvunarfræði við
 
 ## uppsettning
 glösum skal raðað í þríhyrning þar sem aftasta glas er ekki meira en einn þumal frá brún borðsins  
-<!-- TODO bæta við mynd af uppsettningu og borði-->
+<!-- TODO bæta við mynd af uppsettningu á borði-->
 **sjá mynd u1**
 áður en leikur er hafinn skal ákveða reglur um olnboga  
 - Nörd lætur yfirleitt nægja að hafa olnboga fyrir aftan borðsbrún en það verður að taka inn í reikning stærð á borði og rými í kringum borðið  
 - Ef borð er mjög stutt skal afmarka línu á gólfi og notast við fótastaðsetningu sem mælieiningu frekar en olnboga  
-<!-- TODO bæta við tveimur myndum af olnbogastöðum
-    bæði mynd af olnboga fyrir aftan borðsbrún
-    og aðra mynd af styttra borði með afmörkuðu fótaplássi -->
+<!-- TODO bæta við myndum af stöðunum tveimur
+    - olnboga fyrir aftan borðsbrún
+    - styttra borð með afmörkuðu fótaplássi -->
 **sjá myndir u2 og u3**
 
 ef leikur er mikilvægur, loftið þungt og stemmningin gríðarleg er gott að merkja líka miðju borðsins til að koma í veg fyrir vesen seinna
 <!-- TODO bæta við mynd af miðju borði
-    bæta mynd af borði þar sem búið er að merkja miðju með teipi -->
+    bæta mynd af borði þar sem búið er að merkja miðju með teipi
+    mögulega líka samanburði af borði með ekkert teip -->
 **sjá mynd u4**
 
 ## leikur
 ### skopp
 í löglegum nörd beerpong leik er leyfilegt að skoppa kúlu áður en hún fer ofan í glas andstæðings.  
 hins vegar ef kúlunni er skoppað eða hún snertir borðið áður en hún snertir bolla andstæðings má andstæðingur gera við kúluna það sem hann vill, svo lengi sem hann nær henni
-<!-- TODO bæta við myndböndum af kúlu að skoppa
+<!-- TODO bæta við myndböndum af kúlu að skoppa 
     myndbönd sem vantar hér
     - kúla að skoppa og lenda ofan í glasi
     - svipað myndband af kúlu að skoppa nema andstæðingur grípur hana áður en hún lendir ofan í-->
@@ -43,12 +44,24 @@ ef að kúla missir marks og lendir á gólfi eða rúllar á borði eftir kast 
     - athugið að það sem eitt lið samþykkir getur hitt liðið nýtt sér seinna í leiknum
 - ef það lið sem fékk á sig kastið nær boltanum gerist ekkert sérstakt og leikurinn heldur áfram
 
-<!-- TODO tvisvar í sama glas  -->
-<!-- TODO endurröðun  -->
-<!-- TODO snerting  -->
+<!-- TODO tvisvar í sama glas 
+    Hörður þekkir þessar reglur vel
+    væri líka gott að fá input hjá veterans-->
+<!-- TODO endurröðun 
+    - ein endurröðun per lið per leik
+    - má gerast hvenær sem er
+    - má raða í hvaða form sem ek -->
+<!-- TODO snerting 
+    - sé bolli snertur telst það sem stig fyrir andstæðing 
+    - á bara við þegar andstæðingur er að gera -->
 
 ## tie breaker
-<!-- TODO ákveða sanngjarnan tie breaker  -->
+<!-- TODO ákveða sanngjarnan tie breaker 
+    hugsanlegir tie breakers: 
+    - einn á miðju 
+    - knockout 
+    - coinflip -->
 
 ## annað
-<!-- TODO bæta við því sem kemur upp við spilun  -->
+<!-- TODO playtesting
+    hvaða reglum munum við eftir þegar við spilum næst -->
