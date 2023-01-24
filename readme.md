@@ -4,13 +4,22 @@ sett fram af Þorvaldi Tuma og Herði Tryggva, nemendum í tölvunarfræði við
 öllum er velkomið að bæta við issues ef finnst vanta í reglur eða að ehv megi bæta
 
 ## uppsettning
+### boltar
+í hefðbundnum leik skulu vera notaðir tveir boltar í einu
+>ef drykkir eru í glasi skal vera auka glas með vatni til að skola bolta á milli kasta   
+> ekki nauðsynlegt ef drykkir eru í dósum
+
 ### glös
-glösum skal raðað í þríhyrning þar sem aftasta glas er ekki meira en einn þumal frá brún borðsins  
+- glösum skal raðað í þríhyrning þar sem aftasta glas er ekki meira en einn þumal frá brún borðsins  
 <!-- TODO bæta við mynd af uppsettningu á borði-->
 **sjá mynd u1**  
 
-hvert glas skal innihalda að minnsta kosti hálfan lítinn dósabjór, 16.5dl, eða sama magn drykks að eigin vali
-<!-- TODO bæta við mynd af hálfri dós -->
+- hvert glas skal innihalda að minnsta kosti hálfan dósabjór, lítinn, eða sama magn drykks að eigin vali
+<!-- TODO bæta við mynd af hálfri dós -->  
+
+- ef keppendur vilja ekki setja drykkina sína í glösin skal fylla glös um það bil 1/3 af vatni
+
+### olnbogar
 
 áður en leikur er hafinn skal ákveða reglur um olnboga  
 - Nörd lætur yfirleitt nægja að hafa olnboga fyrir aftan borðsbrún en það verður að taka inn í reikning stærð á borði og rými í kringum borðið  
@@ -49,9 +58,17 @@ ef að kúla missir marks og lendir á gólfi eða rúllar á borði eftir kast 
     - athugið að það sem eitt lið samþykkir getur hitt liðið nýtt sér seinna í leiknum
 - ef það lið sem fékk á sig kastið nær boltanum gerist ekkert sérstakt og leikurinn heldur áfram
 
+**ath.** ekki er hægt að taka tvö trickshot í röð með sama bolta, ef trickshot bolti skoppar aftur til kastara er hann ekki gildur fyrir annað trickshot
+
 <!-- TODO tvisvar í sama glas 
     Hörður þekkir þessar reglur vel
     væri líka gott að fá input hjá veterans-->
+### endurröðun
+bæði lið eiga rétt á einni endurröðun per leik
+- aftasti bolli eftir endurröðun verður að vera að minnsta kosti þumal frá brún
+- til að keppandi geti tekið endurröðun má andstæðingur að hafa í mesta lagi 4 bolla eftir
+- lið sem á kast getur valið að endurraða í upphafi sinnar umferðar
+- endurröðun verður að fara fram áður en kúlu er kastað í tilheyrandi umferð
 <!-- TODO endurröðun 
     - ein endurröðun per lið per leik
     - má gerast hvenær sem er
