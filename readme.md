@@ -4,9 +4,14 @@ sett fram af Þorvaldi Tuma og Herði Tryggva, nemendum í tölvunarfræði við
 öllum er velkomið að bæta við issues ef finnst vanta í reglur eða að ehv megi bæta
 
 ## uppsettning
+### glös
 glösum skal raðað í þríhyrning þar sem aftasta glas er ekki meira en einn þumal frá brún borðsins  
 <!-- TODO bæta við mynd af uppsettningu á borði-->
-**sjá mynd u1**
+**sjá mynd u1**  
+
+hvert glas skal innihalda að minnsta kosti hálfan lítinn dósabjór, 16.5dl, eða sama magn drykks að eigin vali
+<!-- TODO bæta við mynd af hálfri dós -->
+
 áður en leikur er hafinn skal ákveða reglur um olnboga  
 - Nörd lætur yfirleitt nægja að hafa olnboga fyrir aftan borðsbrún en það verður að taka inn í reikning stærð á borði og rými í kringum borðið  
 - Ef borð er mjög stutt skal afmarka línu á gólfi og notast við fótastaðsetningu sem mælieiningu frekar en olnboga  
