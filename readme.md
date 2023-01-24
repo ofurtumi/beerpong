@@ -1,8 +1,4 @@
 # beerpong reglur Nörd
-
-sett fram af Þorvaldi Tuma og Herði Tryggva, nemendum í tölvunarfræði við HÍ og drykkjumenn mikla  
-öllum er velkomið að bæta við issues ef finnst vanta í reglur eða að ehv megi bæta
-
 ## uppsettning
 ### boltar
 í hefðbundnum leik skulu vera notaðir tveir boltar í einu
