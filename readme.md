@@ -11,7 +11,6 @@
 
 - hvert glas skal innihalda að minnsta kosti hálfan dósabjór, lítinn, eða sama magn drykks að eigin vali
 <!-- TODO bæta við mynd af hálfri dós -->  
-
 - ef keppendur vilja ekki setja drykkina sína í glösin skal fylla glös um það bil 1/3 af vatni
 
 ### olnbogar
@@ -51,9 +50,9 @@ ef að kúla missir marks og lendir á gólfi eða rúllar á borði eftir kast 
 **ath.** ekki er hægt að taka tvö trickshot í röð með sama bolta, ef trickshot bolti skoppar aftur til kastara er hann ekki gildur fyrir annað trickshot
 
 ### tvisvar í sama glas
-<!-- TODO tvisvar í sama glas 
-    Hörður þekkir þessar reglur vel
-    væri líka gott að fá input hjá veterans-->
+ef spilari hittir tvisvar í sama glas hjá andstæðingi telst það sem tvö mismunandi glös  
+andstæðingur, sá sem á glösin, fær að velja seinna glasið sem er úr leik
+
 
 ### endurröðun
 bæði lið eiga rétt á einni endurröðun per leik
