@@ -44,6 +44,7 @@ hins vegar ef kúlunni er skoppað eða hún snertir borðið áður en hún sne
 ef að kúla missir marks og lendir á gólfi eða rúllar á borði eftir kast þá er hún eign liðsins sem fékk á sig kastið **nema/þangað til** að hún fer yfir miðjupunkt borðsins, eftir það er hún "free game" og bæði liðin eiga rétt á henni, bara spurning um hver nær henni fyrst
 - ef liðið sem kastaði kúlunni nær henni aftur vinnur það lið sér inn "trickshot" sem þarf að leysa út eftir síðasta kast umferðarinnar
     - trickshot geta verið að kasta aftur fyrir sig, kasta fyrst í vegg, kasta liggjandi eða hvað sem andstæða liðið samþykir.
+    - ef keppendur eru þétt umkringdir áhorfendum telst viljandi snerting hjá áhorfenda gilt grip hjá andstæðingsliðinu
     - athugið að það sem eitt lið samþykkir getur hitt liðið nýtt sér seinna í leiknum
 - ef það lið sem fékk á sig kastið nær boltanum gerist ekkert sérstakt og leikurinn heldur áfram
 
