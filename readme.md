@@ -62,11 +62,11 @@ bæði lið eiga rétt á einni endurröðun per leik
 - endurröðun verður að fara fram áður en kúlu er kastað í tilheyrandi umferð
 
 ### snerting
-ef umferð er hafin, það er ef keppandi hefur sleppt takinu á fyrsta bolta, er sett algjört snertibann á glös andstæðings  
+eftir að ef keppandi hefur sleppt takinu á bolta, er sett algjört snertibann á glös andstæðings  
 > þetta bann gildir þangað til bolti er **dáinn**, það er þegar annað liðið hefur náð stjórn á bolta
-- ef andstæðingur snertir sitt eigið glas, jafnvel þótt það hafi verið óvart, telst það glas farið
+- ef andstæðingur snertir sitt eigið glas á meðann snertibannið gildir, jafnvel þótt það hafi verið óvart, telst það glas farið
 - ef glas er snert skal það fjarlægt strax og núverandi bolti er dáinn
-- ef glas er nú þegar farið, þ.e. með bolt ofaní sér, telst snerting á þeim bolla til tvisvar í sama glas [reglna](#tvisvar-í-sama-glas)
+- ef glas er nú þegar farið, þ.e. með bolta ofaní sér, telst snerting á þeim bolla til [tvisvar í sama glas reglna](#tvisvar-í-sama-glas)
 
 ## tie breaker
 <!-- TODO ákveða sanngjarnan tie breaker 
